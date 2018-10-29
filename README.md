@@ -1,7 +1,7 @@
 # wiki
 
 
-# Test Plan - G.T.H.C </br> 
+# Updated Test Plan - G.T.H.C </br> 
 
 This document serves to describe how the team intends to verify the project’s quality
 such that anyone who understands the project can figure out how the individual features
