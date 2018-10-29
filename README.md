@@ -1,6 +1,3 @@
-# wiki
-
-
 # Updated Test Plan - G.T.H.C </br> 
 
 This document serves to describe how the team intends to verify the project’s quality
