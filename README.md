@@ -37,9 +37,21 @@ The test scenarios are as follows:
     a. Internal Links <br />
     b. External Links <br />
 3. Database Testing <br />
-4. Error Testing 
-5. Performance Testing
-6. Usability Testing
+    a. Firebase Test -> Use the Firebase Test Plan <br />
+    b. Purpose:  Make sure Firebase is updating application continuously <br />
+    c. Assumption: Firebase is very reliable  <br />
+    d. Steps: Documentation on Firebase Test plan <br />
+4. Performance Testing  <br />
+    a. Run Audit Testing <br />
+    b. Utilize the Google Chrome Inspect Feature  <br />
+    c. Audits Testing will give many performance details about the website on a scale of 1 to 100 <br />
+5. Usability Testing <br />
+    a. Feature: For Calendar and Tenting 101 Component <br />
+    b. Purpose: Make sure product being made is what customers want <br />
+    c. Assumptions: our designs is not the best but we can improve on it <br />
+    d. Steps: Multiple iterations <br />
+    e. Outcome: more intuitive calendar UI and tenting 101 <br />
+6. Other Error Testing <br />
 
 Each test scenario above will include:
 1. Label or ID
