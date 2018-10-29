@@ -1,3 +1,25 @@
+Sprint 3 Progress Report
+===================
+
+### What progress have you made this Sprint and what did it entail?
+Have a baseline prototype working with more features such as Tenting 101 and dashboard items. 
+
+### Links to artifacts (preferably public) that show evidence of your work this Sprint
+Meetings notes can be found in the meeting notes file in the respository. 
+
+### What were the hardest parts of what you did this Sprint (and why)?
+Communication. It was communication between team members and setting up times to actually sit down and code was tough. 
+
+### What were the most important things you learned this Sprint?
+Testing was an important thing learned in this Sprint and how hard it is to set up User Auth on the mobile end. 
+
+### What do you plan to do next Sprint?
+Delegating tasks. We plan on improving our communication with daily standups and sitting down and organizing every task. 
+
+### What can you do to be more productive next Sprint?
+Next Sprint, we hope to have productive work sessions where we code hard. We bounce ideas off of each other and continue to work. It is esssential that we do this to stay on track. 
+
+
 Sprint 2 Progress Report
 ===================
 
