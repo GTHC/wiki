@@ -28,15 +28,16 @@ or any focus groups that can give us feedback.
 
 # Test Scenarios </br> 
 The test scenarios are as follows: 
-1. Functionality Testing
-    a. Online Code Checkers (W3C Validator, CSS, etc)
-    b. Purpose: See if application can run properly on most internet browsers including chrome and safari
-    c. Assumptions: OUR UI built out on material UI, assuming the designs will be consistent on each platform 
-    d. Steps: Test Cases with Safari, Chrome, IE 
-2. Navigation/Links/URL Testing
-
-3. Database Testing
-4. Error Testing
+1. Functionality Testing <br />
+    a. Online Code Checkers (W3C Validator, CSS, etc) <br />
+    b. Purpose: See if application can run properly on most internet browsers including chrome and safari <br />
+    c. Assumptions: OUR UI built out on material UI, assuming the designs will be consistent on each platform <br />
+    d. Steps: Test Cases with Safari, Chrome, IE <br />
+2. Navigation/Links/URL Testing <br />
+    a. Internal Links <br />
+    b. External Links <br />
+3. Database Testing <br />
+4. Error Testing 
 5. Performance Testing
 6. Usability Testing
 
