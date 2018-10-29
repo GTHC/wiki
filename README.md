@@ -47,6 +47,9 @@ Each test scenario above will include:
 5. Steps
 6. Post-Conditions (expected outcome)
 
+<br />
+<br />
+
 # Release Management Plan - G.T.H.C </br> 
 
 This document serves to describe how the team intends to manage the release of the application so that anyone can read and understand how our application will be distinguished from the current development version as well as any dependencies. This document serves to clarify packaging and delivery for our product. 
