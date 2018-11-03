@@ -8,7 +8,7 @@ In the beginning we were not certain whether we should create our own designs or
 2. Members of the team have experience with the design 
 3. Library most user friendly with the WIX calendar library we are using for the MVP of the product 
 
-Backend 
+Backend:
 We were unsure of whether to use a SQL or a NoSQL database. Our team members have experience building databases using PostgreSql and writing functions that could query data. However, we had heard about useful third party Databases like Firebase, Parse, Kinvey, etc. 
 
 # Choice Ultimately Made </br>
@@ -54,12 +54,12 @@ Justification:
 
 Parse-Server
 1. Advantages </br>
-<ul> Completely open source, not dependant on price model </br>
-<ul> Provides you a very complete range of prebuilt SDKs to plug into your app project </br>
-<ul> Comes with a plethora of features that offer a better user experience </br>
+Completely open source, not dependant on price model </br>
+Provides you a very complete range of prebuilt SDKs to plug into your app project </br>
+Comes with a plethora of features that offer a better user experience </br>
 2. Disadvtanges </br>
-<ul> It’s not multi-tenancy App compliant </br> 
-<ul> Does not have messages as a feature -> future edition of the app </br> 
+It’s not multi-tenancy App compliant </br> 
+Does not have messages as a feature -> future edition of the app </br> 
 
 Postgre
 1. Advantages </br> 
@@ -71,6 +71,24 @@ No Realtime database synchronization
 Data is not visual organized for developers
 Does not have API endpoints already implemented 
 
+Horizon
+1. Advantage
+You can build and deploy cross-platform, real-time web and mobile apps at lightning speed; </br> 
+Unlike Firebase, you can build complex enterprise apps with Horizon, not just basic ones with limited functionality; </br>
+eliminates repetitive boilerplate and tedious steps such as hand-writing CRUD endpoints, authentication, and session management </br>
+
+2. DisAdvantage </br>
+ Horizon code base is not as stable or secure as Firebase </br>
+Does not have notification functionality similar to Firebase </br>
+
+Assumptions:
+1. People have experience with Firebase for later future development
+2. Can build out notifications, messaging within app
+3. Most secure platform 
+
+Dependencies:
+1. We had to integrate authentication and API endpoints to connect web app to the application. 
+2. Much more complex to add Notifications and messaging that Notifications may not make it in this product
 
 # Updated Test Plan - G.T.H.C </br> 
 
