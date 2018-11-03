@@ -1,3 +1,14 @@
+# Design Justification - G.T.H.C. </br>
+This document serves to describe how the team justified the design of the software the way that this project is laid out. 
+
+# Deciding Design </br>
+Website Design </br>
+In the beginning we were not certain whether we should create our own designs or use a pre-existing template. And if we were going to choose a pre-existing library, which library should we choose and for what reasons. We decided to choose a design that best fit these criterias
+1. Flexible features that can be used on both React and React Native
+2. Members of the team have experience with the design 
+3. Library most user friendly with the WIX calendar library we are using for the MVP of the product 
+
+
 # Updated Test Plan - G.T.H.C </br> 
 
 This document serves to describe how the team intends to verify the project’s quality
