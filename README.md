@@ -26,16 +26,50 @@ Justification:
 
 Alternatives/Tradeoffs: 
 React Toolbox
- 1. React Toolbox Advantage
-    i. React Toolbox library is written with style-components which is consistent with React Code 
-    ii. Most amount of documentation on React and ReactToolbox
- 2. React Toolbox DisAdvantage
-    1. It is not coupled with React, can be used with any 3rd party JS platform...important if we use Angular, Vue, etc. for further editions of the product
+ 1. React Toolbox Advantage </br>
+    i. React Toolbox library is written with style-components which is consistent with React Code </br>
+    ii. Most amount of documentation on React and ReactToolbox </br>
+ 2. React Toolbox DisAdvantage </br>
+    1. It is not coupled with React, can be used with any 3rd party JS platform...important if we use Angular, Vue, etc. for further editions of the product </br>
     ii. JSS is easier to mount, which is important with sharing and manipulation of data in our application 
-Team Members don’t have experience with this platform
+Team Members don’t have experience with this platform </br> 
 
+Assumptions: </br>
+1. Material UI is built by Google so it has performed multiple tests on Internet based platforms. 
+2. Material UI is the most popular React platform being used right now, so it probably is the best and encompassing what we are working on
 
+Dependencies: </br>
+Material UI is compatible with few of the calendars we were deciding from. One of the Calendars had been built on Material UIs design, while the other was built on React Bootstrap. The functionalities of both calendars were the same. The Material Ui dependant one won!! </br> 
 
+# Firebase API → </br>
+The API for our backend was something we have been contemplating on. We ultimately came upon the decision to utilize Firebase our main database. </br> 
+
+Justification: 
+1. Real time data synchronization with app and backend
+2. NoSQl and data already managed by application 
+3. Commonly utilized database that has a lot of documentation on its use 
+4. Created by Google; therefore, open source code is reliable on multiple platforms
+5. Secure database which was necessary for storing personal information and demanded by our clients 
+6. Consist of notification, messaging, and other api endpoints 
+
+Parse-Server
+1. Advantages </br>
+<ul> Completely open source, not dependant on price model </br>
+<ul> Provides you a very complete range of prebuilt SDKs to plug into your app project </br>
+<ul> Comes with a plethora of features that offer a better user experience </br>
+2. Disadvtanges </br>
+<ul> It’s not multi-tenancy App compliant </br> 
+<ul> Does not have messages as a feature -> future edition of the app </br> 
+
+Postgre
+1. Advantages </br> 
+All of us have built a PostgreSQL database
+Aman had already built out database for previous project
+Data organized
+2. Disadvantage </br> 
+No Realtime database synchronization
+Data is not visual organized for developers
+Does not have API endpoints already implemented 
 
 
 # Updated Test Plan - G.T.H.C </br> 
