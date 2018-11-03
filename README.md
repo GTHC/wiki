@@ -8,6 +8,35 @@ In the beginning we were not certain whether we should create our own designs or
 2. Members of the team have experience with the design 
 3. Library most user friendly with the WIX calendar library we are using for the MVP of the product 
 
+Backend 
+We were unsure of whether to use a SQL or a NoSQL database. Our team members have experience building databases using PostgreSql and writing functions that could query data. However, we had heard about useful third party Databases like Firebase, Parse, Kinvey, etc. 
+
+# Choice Ultimately Made </br>
+# Material UI → Makes up the Icons, Containers, Nav, Organization </br>
+Material UI was our choice we ultimately made for the library that we intended to import into our design considerations. 
+
+Justification: 
+1. Flexible features that can be extended to many applications of use
+2. Created by Google; therefore, open source code is reliable on multiple platforms
+3. Teammate has experience working with Material UI before. Therefore, decreasing learning curve
+4. Material UI easily compatible with other frameworks as well 
+5. Easy to work with → simple imports into our script
+6. Clean designs in the library
+7. Importing icons were key in our project
+
+Alternatives/Tradeoffs: 
+React Toolbox
+ 1. React Toolbox Advantage
+    i. React Toolbox library is written with style-components which is consistent with React Code 
+    ii. Most amount of documentation on React and ReactToolbox
+ 2. React Toolbox DisAdvantage
+    1. It is not coupled with React, can be used with any 3rd party JS platform...important if we use Angular, Vue, etc. for further editions of the product
+    ii. JSS is easier to mount, which is important with sharing and manipulation of data in our application 
+Team Members don’t have experience with this platform
+
+
+
+
 
 # Updated Test Plan - G.T.H.C </br> 
 
