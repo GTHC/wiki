@@ -1,3 +1,24 @@
+Sprint 4 Progress Report
+===================
+
+### What progress have you made this Sprint and what did it entail?
+Have an Alpha Prototype that has a basic calendar, user authentication, Tenting101 feature, FAQ, and the When2Meet front-end completed. 
+
+### Links to artifacts (preferably public) that show evidence of your work this Sprint
+In the GTHC repository is a link to the Bluebull Webapp portion where each branch is separated into different components of the app. Please take a look at each branch of our repository. 
+
+### What were the hardest parts of what you did this Sprint (and why)?
+Integrating code in terms of how the front-end will meet the back-end was hard to plan. 
+
+### What were the most important things you learned this Sprint?
+Learned a lot about how to integrate certain aspects of our users to the design of our dynamic data. Specifically with the When2Meet form, it was important to see that Duke Students schedules work on 75 minute intervals. This helps with scheduling with less boxes on the When2Meet form. Also, people doing night shifts can be consolidated to just one box instead of 7 different times.  
+
+### What do you plan to do next Sprint?
+We plan on figuring out how to incoporate this front-end to the back-end, specifically for scheduling purposes. 
+
+### What can you do to be more productive next Sprint?
+Next Sprint, we hope to have more productive work sessions where we code hard. We intend to bounce ideas off of each other and continue to work. It is esssential that we do this to stay on track. 
+
 Sprint 3 Progress Report
 ===================
 
