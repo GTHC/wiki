@@ -1,3 +1,13 @@
+# User Tasks - G.T.H.C. </br>
+# Overview
+Our GTHC Tenting App provides a resource for all things K-Ville. It provides tenters a scheduling feature in which teams may add their availabilities and assign tenting shifts. Other features of the web application include a Tenting101 section, FAQ section, dashboard widgets, calendar, and shift schedule. Tenting101 provides a step-by-step turtorial on all things Tenting including new policy changes and a walk through of the tips and tricks of succeeding in K-Ville. Currently, we have completed user authentication, a tenting 101 feature, the when2meet form, a basic calendar, and are working on implementing adding and changing shifts. 
+
+# Tasks
+
+1. Find and join your team based on this Team Name _____ and Password ______
+2. Input your unavailability into the When2Meet portion of the website. 
+3. Step by step process and walk-through on all things Tenting including new changes to the Policy. 
+
 # Design Justification - G.T.H.C. </br>
 This document serves to describe how the team justified the design of the software the way that this project is laid out. 
 
