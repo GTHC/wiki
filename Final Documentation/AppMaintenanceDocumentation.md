@@ -1,0 +1,53 @@
+{
+  "name": "kville-scheduler",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "3.5",
+    "axios": "^0.18.0",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.4",
+    "babel-plugin-lodash": "^3.2.11",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-1": "^6.24.1",
+    "cross-env": "^5.0.5",
+    "history": "^4.7.2",
+    "moment": "^2.22.2",
+    "prop-types": "^15.6.1",
+    "react": "^16.3.2",
+    "react-big-calendar": "^0.20.2",
+    "react-dom": "^16.3.2",
+    "react-redux": "^5.0.6",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-router-redux": "^5.0.0-alpha.9",
+    "react-twitter-widgets": "^1.7.1",
+    "react-youtube": "^7.6.0",
+    "redux": "^3.7.2",
+    "redux-auth-wrapper": "^2.0.2",
+    "redux-persist": "^5.6.6",
+    "redux-search": "^2.4.0",
+    "redux-thunk": "^2.2.0",
+    "semantic-ui-css": "^2.2.12",
+    "semantic-ui-react": "^0.77.2"
+  },
+  "devDependencies": {
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-stage-0": "^6.24.1",
+    "redux-devtools": "^3.4.1",
+    "redux-devtools-dock-monitor": "^1.1.3",
+    "redux-devtools-log-monitor": "^1.4.0",
+    "webpack-dev-server": "2.11.2"
+  },
+  "scripts": {
+    "start": "foreman start -f Procfile.dev",
+    "clean:branch": "./bin/clean-branch.sh",
+    "webpacker": "ruby bin/webpack-dev-server",
+    "flush": " docker-compose run app ./bin/db-flush.sh",
+    "dev:setup": "./bin/dev.sh",
+    "dev:start": "docker-compose run -p '5000:5000' -p '3035:3035' app yarn start",
+    "dev:bash": "docker-compose run app bash",
+    "dev:console": "docker-compose run app rails c",
+    "dev:db": "docker-compose run app rails db"
+  }
+}
