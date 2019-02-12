@@ -3,7 +3,8 @@
 
 ## Table of Contents
 1. [Week 4: Jan. 28, 2019](#week-4)
-2. [Week 5: Week 5: Feb. 04, 2019](#week-5)
+2. [Week 5: Feb. 04, 2019](#week-5)
+3. [Week 6: Feb. 11, 2019](#week-6)
 
 
 ## Week 4
@@ -26,7 +27,7 @@ We completed the updated Availability this week as well. ![(See the PR here)](ht
 ![](images/avail_after.JPG)
 
 
-## Week 5
+## Week 6
 ### Feb. 04, 2019
 
 ##### Aman
