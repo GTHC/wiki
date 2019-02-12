@@ -27,7 +27,7 @@ We completed the updated Availability this week as well. ![(See the PR here)](ht
 ![](images/avail_after.JPG)
 
 
-## Week 6
+## Week 5
 ### Feb. 04, 2019
 
 ##### Aman
@@ -47,7 +47,7 @@ Other non-Availability bugs/issues found:
 On our proposal, notifications were meant to be the tasks we have been working on the last two weeks, but due to user demands, that had moved to the updated Availability. What has been done for notification feature:
 Finding potential design methods and libraries for this feature 
 
-## Week 5
+## Week 6
 ### Feb. 11, 2019
 
 ##### Aman
