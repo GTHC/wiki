@@ -5,6 +5,7 @@
 1. [Week 4: Jan. 28, 2019](#week-4)
 2. [Week 5: Feb. 04, 2019](#week-5)
 3. [Week 6: Feb. 11, 2019](#week-6)
+4. [Week 8 and 9: Feb. 25, 2019](#week-8-and-9) 
 
 
 ## Week 4
@@ -56,8 +57,8 @@ This week I have only worked on fixing the following:
 - Learning more about ActionCable and how we could possibly use it for notifications
 
 
-## Week 7 and 8
-### Feb. 18, 2019
+## Week 8 and 9
+### Feb. 25, 2019
 
 ##### Aman
 I had two tasks this week, and they have both begun:
