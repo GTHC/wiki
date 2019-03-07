@@ -54,3 +54,15 @@ Finding potential design methods and libraries for this feature
 This week I have only worked on fixing the following:
 - Fixing the issue with the dashboard hour breakdown (mentioned in last week's journal)
 - Learning more about ActionCable and how we could possibly use it for notifications
+
+
+## Week 7 and 8
+### Feb. 18, 2019
+
+##### Aman
+I had two tasks this week, and they have both begun:
+- Documentation
+  - Completed main README.md documentation for installation, setup, and configuration of project
+  - Beginning docs folder in wiki for internal documentation which will be about developer practices
+- Testing
+  - Setting up test environment for Rails with `test-helper` and `rupocop`
