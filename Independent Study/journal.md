@@ -6,6 +6,7 @@
 2. [Week 5: Feb. 04, 2019](#week-5)
 3. [Week 6: Feb. 11, 2019](#week-6)
 4. [Week 8 and 9: Feb. 25, 2019](#week-8-and-9) 
+5. [Spring Break](#spring-break)
 
 
 ## Week 4
@@ -67,3 +68,10 @@ I had two tasks this week, and they have both begun:
   - Beginning docs folder in wiki for internal documentation which will be about developer practices
 - Testing
   - Setting up test environment for Rails with `test-helper` and `rupocop`
+ 
+ ## Spring Break
+ ### Mar. 11, 2019
+ 
+ ##### Aman
+ - Completed all the docs, as you can find them [here](https://github.com/GTHC/docs). Of course, more will be added as time continues. 
+ - Continued to read and learn about ActionCable, the library intended to use for the notifications feature.
